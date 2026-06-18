@@ -1,40 +1,58 @@
 ## Hi, I'm Joanna 👋
 
-I'm currently learning data analysis and building my first portfolio projects.
+I'm developing my skills as a Junior Data Analyst and building portfolio projects based on what I learned during my data analysis course.
 
-I work mainly with Excel, SQL, Power BI and Python. Right now, I'm focusing on cleaning data, writing queries, creating dashboards and presenting results in a clear and simple way.
+During the course, I worked with Excel, SQL, Power BI, DAX, Looker Studio, Python and Pandas. I also learned the basics of data visualization, business intelligence, statistics, hypothesis testing, clustering and simple modeling.
 
-## What I'm learning
-Excel — Pivot Tables, Power Query, formulas, charts and dashboards
-SQL — filtering, joins, grouping, CTEs and basic window functions
-Power BI — Power Query, data models, DAX and interactive reports
-Python — pandas, Jupyter Notebook, data cleaning and basic visualizations
+Right now, I'm focused on turning this knowledge into practical projects that show the full data analysis process — from preparing data to finding insights and presenting results.
 
-## What I'm working on
-
-I'm building projects that help me practice the full data analysis process:
-
-- understanding the business question
-- preparing and cleaning the data
-- analyzing trends and patterns
-- creating dashboards or reports
-- writing short summaries with key findings
+## What I'm working with
+Excel — formulas, Pivot Tables, filtering, charts, dashboards
+SQL — queries, joins, aggregations, views, creating and modifying tables
+Power BI — Power Query, data modeling, DAX, interactive dashboards
+Looker Studio — basic BI reports and dashboard building
+Python — basic programming, Pandas, data cleaning and analysis
+Data visualization — charts, dashboards and clear presentation of results
+Statistics — basic statistical analysis and hypothesis testing
 
 ## Portfolio projects
-1. Excel Sales Dashboard
-2. A sales analysis project built in Excel using Pivot Tables, Power Query and dashboard visuals.
-3. SQL E-commerce Analysis
-4. A project focused on analyzing customers, orders and products using SQL queries.
-5. Power BI Business Dashboard
-6. An interactive dashboard showing business KPIs, sales trends and product performance.
-7. Python Data Analysis Project
-8. An exploratory data analysis project using Python, pandas and visualizations.
 
-## Goal
+I'm currently building projects that reflect the main topics from my Junior Data Analyst course:
 
-My goal is to get my first role as a Junior Data Analyst or Reporting Analyst.
+# Excel Sales Dashboard
 
-I'm using this GitHub profile to document my learning process and show the projects I'm working on.
+A sales analysis project created in Excel using formulas, Pivot Tables, filtering, charts and dashboard elements.
+
+# SQL E-commerce Analysis
+
+A project focused on analyzing customers, orders and products using SQL.
+The analysis includes joins, grouping, views and business questions related to sales performance.
+
+# Power BI Sales Dashboard
+
+An interactive dashboard built in Power BI.
+The project includes data cleaning, data modeling, DAX measures and visual analysis of sales, profit and business KPIs.
+
+# Looker Studio Marketing Dashboard
+
+A BI report created in Looker Studio using marketing campaign data.
+The dashboard focuses on traffic, clicks, conversions and campaign performance.
+
+# Python Sales Analysis
+
+An exploratory data analysis project in Python using Pandas.
+The project includes data cleaning, basic analysis, visualizations and short business conclusions.
+
+# Python Customer Segmentation
+
+A customer analysis project based on purchasing behavior.
+The goal is to group customers into segments and prepare simple business recommendations.
+
+## My goal
+
+My goal is to get my first role as a Junior Data Analyst, Reporting Analyst or Junior BI Analyst.
+
+I'm using this GitHub profile to document my learning process and present practical projects that show how I work with data.
 
 ## Contact
 Email: joannalewandowska025@gmail.com
