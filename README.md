@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Joanna 👋
 
-<!--
-**joannlewandowska/joannlewandowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning data analysis and building my first portfolio projects.
 
-Here are some ideas to get you started:
+I work mainly with Excel, SQL, Power BI and Python. Right now, I'm focusing on cleaning data, writing queries, creating dashboards and presenting results in a clear and simple way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm learning
+Excel — Pivot Tables, Power Query, formulas, charts and dashboards
+SQL — filtering, joins, grouping, CTEs and basic window functions
+Power BI — Power Query, data models, DAX and interactive reports
+Python — pandas, Jupyter Notebook, data cleaning and basic visualizations
+What I'm working on
+
+I'm building projects that help me practice the full data analysis process:
+
+understanding the business question
+preparing and cleaning the data
+analyzing trends and patterns
+creating dashboards or reports
+writing short summaries with key findings
+Portfolio projects
+Excel Sales Dashboard
+
+A sales analysis project built in Excel using Pivot Tables, Power Query and dashboard visuals.
+
+SQL E-commerce Analysis
+
+A project focused on analyzing customers, orders and products using SQL queries.
+
+Power BI Business Dashboard
+
+An interactive dashboard showing business KPIs, sales trends and product performance.
+
+Python Data Analysis Project
+
+An exploratory data analysis project using Python, pandas and visualizations.
+
+Goal
+
+My goal is to get my first role as a Junior Data Analyst or Reporting Analyst.
+
+I'm using this GitHub profile to document my learning process and show the projects I'm working on.
+
+Contact
+Email: joannalewandowska025@gmail.com
