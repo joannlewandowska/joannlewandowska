@@ -27,10 +27,16 @@ The project analyzes sales, profit, regions, product categories, discount levels
 
 [View project](https://github.com/joannlewandowska/excel-sales-dashboard)
 
-## SQL E-commerce Analysis
+### SQL E-commerce Analysis
 
-A project focused on analyzing customers, orders and products using SQL.
-The analysis includes joins, grouping, views and business questions related to sales performance.
+SQL analysis of Brazilian e-commerce data from Olist using SQL Server Management Studio.  
+The project includes data quality checks, sales analysis, customer analysis, product and seller analysis, delivery performance analysis, and customer review insights.
+
+**Tools:** SQL Server, SQL Server Management Studio, SQL, CSV, GitHub  
+**Skills:** joins, CTEs, aggregations, data cleaning, KPI calculation, delivery analysis, customer segmentation  
+
+[View Project](https://github.com/joannlewandowska/sql-ecommerce-analysis)
+```
 
 ## Power BI Sales Dashboard
 
