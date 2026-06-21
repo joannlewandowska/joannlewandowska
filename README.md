@@ -37,7 +37,6 @@ The project includes data quality checks, sales analysis, customer analysis, pro
 
 [View Project](https://github.com/joannlewandowska/sql-ecommerce-analysis)
 ```
-
 ## Power BI Sales Dashboard
 
 An interactive dashboard built in Power BI.
