@@ -21,7 +21,11 @@ I'm currently building projects that reflect the main topics from my Junior Data
 
 ## Excel Sales Dashboard
 
-A sales analysis project created in Excel using formulas, Pivot Tables, filtering, charts and dashboard elements.
+Interactive sales dashboard created in Microsoft Excel using Power Query, Pivot Tables, Pivot Charts and slicers.
+
+The project analyzes sales, profit, regions, product categories, discount levels, shipping methods and top-selling products.
+
+[View project](https://github.com/joannlewandowska/excel-sales-dashboard)
 
 ## SQL E-commerce Analysis
 
