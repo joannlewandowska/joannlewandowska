@@ -34,9 +34,9 @@ The project includes data quality checks, sales analysis, customer analysis, pro
 
 **Tools:** SQL Server, SQL Server Management Studio, SQL, CSV, GitHub  
 **Skills:** joins, CTEs, aggregations, data cleaning, KPI calculation, delivery analysis, customer segmentation  
-
+```markdown
 [View Project](https://github.com/joannlewandowska/sql-ecommerce-analysis)
-```
+
 ## Power BI Sales Dashboard
 
 An interactive dashboard built in Power BI.
