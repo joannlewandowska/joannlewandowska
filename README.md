@@ -37,10 +37,15 @@ The project includes data quality checks, sales analysis, customer analysis, pro
 
 [View Project](https://github.com/joannlewandowska/sql-ecommerce-analysis)
 
-## Power BI Sales Dashboard
+## Power BI Sales Performance Dashboard
 
-An interactive dashboard built in Power BI.
-The project includes data cleaning, data modeling, DAX measures and visual analysis of sales, profit and business KPIs.
+An interactive sales performance dashboard built in Power BI using the Financial Sample dataset.  
+The dashboard analyzes sales, profit, profit margin, units sold, countries, customer segments and product performance.
+
+**Tools:** Power BI Desktop, Power Query, DAX, Excel, GitHub  
+**Skills:** DAX measures, KPI cards, dashboard design, trend analysis, product analysis, segment analysis  
+
+[View Project](https://github.com/joannlewandowska/power-bi-sales-dashboard)
 
 ## Looker Studio Marketing Dashboard
 
