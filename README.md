@@ -27,7 +27,7 @@ The project analyzes sales, profit, regions, product categories, discount levels
 
 [View project](https://github.com/joannlewandowska/excel-sales-dashboard)
 
-### SQL E-commerce Analysis
+## SQL E-commerce Analysis
 
 SQL analysis of Brazilian e-commerce data from Olist using SQL Server Management Studio.  
 The project includes data quality checks, sales analysis, customer analysis, product and seller analysis, delivery performance analysis, and customer review insights.
@@ -46,6 +46,16 @@ The dashboard analyzes sales, profit, profit margin, units sold, countries, cust
 **Skills:** DAX measures, KPI cards, dashboard design, trend analysis, product analysis, segment analysis  
 
 [View Project](https://github.com/joannlewandowska/power-bi-sales-dashboard)
+
+## SharePoint Client Management System
+
+CRM-lite client management system designed with Microsoft Lists, SharePoint Lists and Power Automate specifications.
+
+This project includes structured client data, contact management, interaction history, opportunities, follow-up tasks, filtered views, JSON column formatting and automation-ready documentation.
+
+**Tools used:** Microsoft Lists, SharePoint Lists, JSON column formatting, Power Automate specification, business process documentation
+
+[View project on GitHub](https://github.com/joannlewandowska/sharepoint-client-management-system)
 
 ## Looker Studio Marketing Dashboard
 
